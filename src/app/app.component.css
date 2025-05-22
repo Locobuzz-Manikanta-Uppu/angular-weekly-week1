@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: chocolate;
+    text-align: center;
+    height: 5vh;
+    /* a{
+        fornt-size
+    } */
+}
